@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3985889626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3875043c32212e9d494a0052c017e601
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/_Polluted/CreepStern_Polluted/CreepStern_PollutedC.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/_Leafless/CreepStern_Leafless/CreepStern_LeaflessA.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/SwampPod/SwampPodA.psd
+- Assets/Data/2182111148/Textures/Things/Plant/SwampPod/SwampPodC.psd
+- Assets/Data/2182111148/Textures/Things/Plant/_Polluted/CreepStern_Polluted/CreepStern_PollutedA.psd
+- Assets/Data/2182111148/Textures/Things/Plant/_Polluted/CreepStern_Polluted/CreepStern_PollutedC.psd
+- Assets/Data/2182111148/Textures/Things/Plant/_Leafless/CreepStern_Leafless/CreepStern_LeaflessC.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/SwampPod/SwampPodB.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/_Leafless/CreepStern_Leafless/CreepStern_LeaflessB.psd
+- Assets/Data/2182111148/Textures/Things/Plant/_Polluted/CreepStern_Polluted/CreepStern_PollutedB.psd
+- Assets/Data/2182111148/Textures/Things/Plant/_Leafless/CreepStern_Leafless/CreepStern_LeaflessA.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/CreepStern/CreepSternA.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/_Leafless/CreepStern_Leafless/CreepStern_LeaflessC.psd
+- Assets/Data/2182111148/Textures/Things/Plant/Dervish/DervishC.psd
+- Assets/Data/2182111148/Textures/Things/Plant/_Leafless/CreepStern_Leafless/CreepStern_LeaflessB.psd
+- Assets/Data/2182111148/Textures/Things/Plant/Dervish/DervishB.psd
+- Assets/Data/2182111148/Textures/Things/Plant/CreepStern/CreepSternB.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/CreepStern/CreepSternB.psd
+- Assets/Data/2182111148/Textures/Things/Plant/CreepStern/CreepSternA.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/Dervish/DervishB.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/SwampPod/SwampPodC.psd
+- Assets/Data/2182111148/Textures/Things/Plant/Dervish/DervishA.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/_Polluted/CreepStern_Polluted/CreepStern_PollutedA.psd
+- Assets/Data/2182111148/Textures/Things/Plant/SwampPod/SwampPodA.psd
+- Assets/Data/2182111148/Textures/Things/Plant/CreepStern/CreepSternC.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/Dervish/DervishC.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/_Polluted/CreepStern_Polluted/CreepStern_PollutedB.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/CreepStern/CreepSternC.psd
+- Assets/Data/ReGrowth2-Swamp/Textures/Things/Plant/Dervish/DervishA.psd
+- Assets/Data/2182111148/Textures/Things/Plant/SwampPod/SwampPodB.psd
+Dependencies: []

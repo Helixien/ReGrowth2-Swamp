@@ -20,6 +20,7 @@
 			<fertilitySensitivity>0.2</fertilitySensitivity>
 			<growDays>15</growDays>
 			<leaflessGraphicPath>Things/Plant/Leafless/CreepStern_Leafless</leaflessGraphicPath>
+			<pollutedGraphicPath>Things/Plant/Polluted/CreepStern_Polluted</pollutedGraphicPath>
 			<harvestWork>75</harvestWork>
 			<maxMeshCount>4</maxMeshCount>
 			<wildClusterRadius>4</wildClusterRadius>
